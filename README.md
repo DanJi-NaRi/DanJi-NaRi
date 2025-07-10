@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @DanJi-NaRi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 안녕하세요! 저는 단지나리입니다 :)
 
-<!---
-DanJi-NaRi/DanJi-NaRi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧪 현재: 다양한 게임 개발 기술을 탐구 중 (특히 C++ & Unity)
+- 🧠 관심 분야: 그래픽스, 게임 수학, 렌더링 엔진, 툴 제작
+- 🛠️ 최근엔: DirectX, 소프트웨어 렌더링, FSM, 씬 전환 시스템 등에 몰두
+- 🌱 공부 중: 컴퓨터 그래픽스, Win32 GDI, ECS 아키텍처
+- 🐾 취미: 강아지와 산책하기 (with 나리 🐶)
+- 💬 연락: [bjh000523@naver.com] 또는 GitHub Issue를 통해!
